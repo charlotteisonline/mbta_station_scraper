@@ -1,0 +1,265 @@
+,transit_mode,line,subline,station_name,station_url,address,latitude,longitude
+0,subway,Red,Stations,Alewife,/stops/place-alfcl,"Alewife Brook Pkwy and Cambridge Park Dr, Cambridge, MA 02140",42.39583,-71.141287
+1,subway,Red,Stations,Andrew,/stops/place-andrw,"Dorchester Ave and Southhampton St, South Boston, MA 02127",42.330154,-71.057655
+2,subway,Red,Stations,Ashmont,/stops/place-asmnl,"Dorchester Ave and Ashmont St, Boston, MA 02124",42.28452,-71.063777
+3,subway,Red,Stations,Braintree,/stops/place-brntn,"197 Ivory St, Braintree, MA 02184",42.207854,-71.001138
+4,subway,Red,Stations,Broadway,/stops/place-brdwy,"Dorchester Ave and Broadway, Boston, MA",42.342622,-71.056967
+5,subway,Red,Stations,Central,/stops/place-cntsq,"Massachusetts Ave and Prospect St, Cambridge, MA 02139",42.365486,-71.103802
+6,subway,Red,Stations,Charles/MGH,/stops/place-chmnl,"Cambridge St and Charles St, Boston, MA",42.361166,-71.070628
+7,subway,Red,Stations,Davis,/stops/place-davis,"College Ave and Elm St, Somerville, MA",42.39674,-71.121815
+8,subway,Red,Stations,Downtown Crossing,/stops/place-dwnxg,"Washington St and Summer St, Boston, MA",42.355518,-71.060225
+9,subway,Red,Stations,Fields Corner,/stops/place-fldcr,"50 Freeman St, Dorchester, MA 02122",42.300093,-71.061667
+10,subway,Red,Stations,Harvard,/stops/place-harsq,"1400 Massachusetts Ave, Cambridge, MA",42.373362,-71.118956
+11,subway,Red,Stations,JFK/UMass,/stops/place-jfk,"599 Old Colony Ave, Boston, MA 02127-3805",42.320685,-71.052391
+12,subway,Red,Stations,Kendall/MIT,/stops/place-knncl,"300 Main St, Cambridge, MA 02142",42.362491,-71.086176
+13,subway,Red,Stations,North Quincy,/stops/place-nqncy,"Hancock St and Hunt St, Quincy, MA 02171",42.275275,-71.029583
+14,subway,Red,Stations,Park Street,/stops/place-pktrm,"Tremont St and Winter St, Boston, MA 02108",42.356395,-71.062424
+15,subway,Red,Stations,Porter,/stops/place-portr,"1899 Massachusetts Ave, Cambridge, MA 02140",42.3884,-71.119149
+16,subway,Red,Stations,Quincy Adams,/stops/place-qamnl,"Burgin Pkwy and Centre St, Quincy, MA 02169",42.233391,-71.007153
+17,subway,Red,Stations,Quincy Center,/stops/place-qnctr,"175 Thomas E Burgin Pkwy, Quincy, MA 02169",42.251809,-71.005409
+18,subway,Red,Stations,Savin Hill,/stops/place-shmnl,"125 Savin Hill Ave, Dorchester, MA 02124",42.31129,-71.053331
+19,subway,Red,Stations,Shawmut,/stops/place-smmnl,"Dayton St and Clementine Park, Dorchester, MA 02124",42.293126,-71.065738
+20,subway,Red,Stations,South Station,/stops/place-sstat,"700 Atlantic Ave, Boston, MA 02110",42.352271,-71.055242
+21,subway,Red,Stations,Wollaston,/stops/place-wlsta,"90 Woodbine St, Quincy, MA 02171",42.266514,-71.020337
+22,subway,Red,Mattapan Trolley,Ashmont,/stops/place-asmnl,"Dorchester Ave and Ashmont St, Boston, MA 02124",42.28452,-71.063777
+23,subway,Red,Mattapan Trolley,Butler,/stops/place-butlr,"Butler St and Branchfield St, Dorchester, MA 02124",42.272429,-71.062519
+24,subway,Red,Mattapan Trolley,Capen Street,/stops/place-capst,"50 Capen St, Milton, MA 02186",42.267563,-71.087338
+25,subway,Red,Mattapan Trolley,Cedar Grove,/stops/place-cedgr,"Fellsway St and Milton St, Dorchester, MA 02124",42.279629,-71.060394
+26,subway,Red,Mattapan Trolley,Central Avenue,/stops/place-cenav,"23 Central Ave, Milton, MA 02186",42.270027,-71.073444
+27,subway,Red,Mattapan Trolley,Mattapan,/stops/place-matt,"500 River St, Boston, MA 02126",42.26762,-71.092486
+28,subway,Red,Mattapan Trolley,Milton,/stops/place-miltt,"1 Adams St, Milton, MA 02186",42.270349,-71.067266
+29,subway,Red,Mattapan Trolley,Valley Road,/stops/place-valrd,"291 Valley Rd, Milton, MA 02186",42.268347,-71.081343
+30,subway,Orange,Stations,Assembly,/stops/place-astao,"499 Foley St, Somerville, MA 02145",42.392811,-71.077257
+31,subway,Orange,Stations,Back Bay,/stops/place-bbsta,"145 Dartmouth St Boston, MA 02116",42.34735,-71.075727
+32,subway,Orange,Stations,Chinatown,/stops/place-chncl,"Washington St and Boylston St, Boston, MA",42.352547,-71.062752
+33,subway,Orange,Stations,Community College,/stops/place-ccmnl,"Austin St and Rutherford Ave, Charlestown, MA",42.373622,-71.069533
+34,subway,Orange,Stations,Downtown Crossing,/stops/place-dwnxg,"Washington St and Summer St, Boston, MA",42.355518,-71.060225
+35,subway,Orange,Stations,Forest Hills,/stops/place-forhl,"Washington St and Hyde Park Ave, Jamaica Plain, MA 02130",42.300713,-71.113943
+36,subway,Orange,Stations,Green Street,/stops/place-grnst,"150 Green St, Jamaica Plain, MA",42.310525,-71.107414
+37,subway,Orange,Stations,Haymarket,/stops/place-haecl,"136 Blackstone St, Boston, MA 02109",42.363021,-71.05829
+38,subway,Orange,Stations,Jackson Square,/stops/place-jaksn,"1500 Columbus Ave, Jamaica Plain, MA",42.323132,-71.099592
+39,subway,Orange,Stations,Malden Center,/stops/place-mlmnl,"Commercial St and Pleasant St, Malden, MA 02148",42.426632,-71.07411
+40,subway,Orange,Stations,Massachusetts Avenue,/stops/place-masta,"393 Massachusetts Ave, Boston, MA 02118",42.341512,-71.083423
+41,subway,Orange,Stations,North Station,/stops/place-north,"135 Causeway St, Boston, MA 02114",42.365577,-71.06129
+42,subway,Orange,Stations,Oak Grove,/stops/place-ogmnl,"Washington St and Winter St, Malden, MA 02148",42.43668,-71.071097
+43,subway,Orange,Stations,Roxbury Crossing,/stops/place-rcmnl,"1400 Tremont St, Roxbury, MA",42.331397,-71.095451
+44,subway,Orange,Stations,Ruggles,/stops/place-rugg,"1150 Tremont St, Roxbury, MA 02120",42.336377,-71.088961
+45,subway,Orange,Stations,State,/stops/place-state,"200 Washington St, Boston, MA",42.358978,-71.057598
+46,subway,Orange,Stations,Stony Brook,/stops/place-sbmnl,"100 Boylston St, Jamaica Plain, MA",42.317062,-71.104248
+47,subway,Orange,Stations,Sullivan Square,/stops/place-sull,"Maffa Way and Cambridge St, Charlestown, MA 02129",42.383975,-71.076994
+48,subway,Orange,Stations,Tufts Medical Center,/stops/place-tumnl,"750 Washington St, Boston, MA",42.349662,-71.063917
+49,subway,Orange,Stations,Wellington,/stops/place-welln,"Revere Beach Pkwy and Rivers Edge Dr, Medford, MA 02155",42.40237,-71.077082
+50,subway,Blue,Stations,Airport,/stops/place-aport,"Transportation Way and Service Rd, Boston, MA 02128",42.374262,-71.030395
+51,subway,Blue,Stations,Aquarium,/stops/place-aqucl,"Atlantic Ave and State St, Boston, MA 02120",42.359784,-71.051652
+52,subway,Blue,Stations,Beachmont,/stops/place-bmmnl,"630 Winthrop Ave, Revere, MA 02151",42.397542,-70.992319
+53,subway,Blue,Stations,Bowdoin,/stops/place-bomnl,"Cambridge St and New Chardon St, Boston, MA 02114",42.361365,-71.062037
+54,subway,Blue,Stations,Government Center,/stops/place-gover,"Cambridge St and Court St, Boston, MA",42.359705,-71.059215
+55,subway,Blue,Stations,Maverick,/stops/place-mvbcl,"Sumner St and Maverick Sq, East Boston, MA",42.369119,-71.03953
+56,subway,Blue,Stations,Orient Heights,/stops/place-orhte,"1000 Bennington St, East Boston, MA 02128",42.386867,-71.004736
+57,subway,Blue,Stations,Revere Beach,/stops/place-rbmnl,"220 Shirley Ave, Revere, MA",42.407843,-70.992533
+58,subway,Blue,Stations,State,/stops/place-state,"200 Washington St, Boston, MA",42.358978,-71.057598
+59,subway,Blue,Stations,Suffolk Downs,/stops/place-sdmnl,"1230 Bennington St, East Boston, MA 02128",42.390501,-70.997123
+60,subway,Blue,Stations,Wonderland,/stops/place-wondl,"1300 North Shore Rd, Revere, MA 02151",42.41342,-70.991648
+61,subway,Blue,Stations,Wood Island,/stops/place-wimnl,"450 Bennington St, East Boston, MA",42.37964,-71.022865
+62,subway,Green,Stations,Allston Street,/stops/place-alsgr,"Allston St and Commonwealth Ave, Boston, MA 02134",42.348701,-71.137955
+63,subway,Green,Stations,Amory Street,/stops/place-amory,"Commonwealth Ave and Amory St, Boston, MA 02215",42.350992,-71.114748
+64,subway,Green,Stations,Arlington,/stops/place-armnl,"Arlington St and Boylston St, Boston, MA 02116",42.351902,-71.070893
+65,subway,Green,Stations,Babcock Street,/stops/place-babck,"Commonwealth Ave and Babcock St, Boston, MA 02215",42.351616,-71.119924
+66,subway,Green,Stations,Back of the Hill,/stops/place-bckhl,"100 South Huntington Ave, Boston, MA 02130",42.330139,-71.111313
+67,subway,Green,Stations,Ball Square,/stops/place-balsq,"646 Boston Ave, Somerville, MA 02144",42.399889,-71.111003
+68,subway,Green,Stations,Beaconsfield,/stops/place-bcnfd,"124 Beaconsfield Rd, Brookline, MA 02445",42.335765,-71.140455
+69,subway,Green,Stations,Blandford Street,/stops/place-bland,"Commonwealth Ave and Blandford Mall, Boston, MA 02215",42.349293,-71.100258
+70,subway,Green,Stations,Boston College,/stops/place-lake,"Commonwealth Ave and Lake St, Boston, MA 02135",42.340081,-71.166769
+71,subway,Green,Stations,Boston University Central,/stops/place-bucen,"Commonwealth Ave and Marsh Chapel, Boston, MA 02215",42.350082,-71.106865
+72,subway,Green,Stations,Boston University East,/stops/place-buest,"Commonwealth Ave and Granby St, Boston, MA 02215",42.349735,-71.103889
+73,subway,Green,Stations,Boylston,/stops/place-boyls,"Boylston St and Tremont St, Boston, MA",42.35302,-71.06459
+74,subway,Green,Stations,Brandon Hall,/stops/place-bndhl,"1481 Beacon St, Brookline, MA",42.340023,-71.129082
+75,subway,Green,Stations,Brigham Circle,/stops/place-brmnl,"Huntington Ave and Francis St, Boston, MA",42.334229,-71.104609
+76,subway,Green,Stations,Brookline Hills,/stops/place-brkhl,"Tappan St and Cypress St, Brookline, MA 02445",42.331316,-71.126683
+77,subway,Green,Stations,Brookline Village,/stops/place-bvmnl,"31 Station St, Brookline, MA 02445",42.332608,-71.116857
+78,subway,Green,Stations,Chestnut Hill,/stops/place-chhil,"Hammond St and Chestnut Hill Rd, Newton, MA 02467",42.326753,-71.164699
+79,subway,Green,Stations,Chestnut Hill Avenue,/stops/place-chill,"Commonwealth Ave and Chestnut Hill Ave, Boston, MA",42.338169,-71.15316
+80,subway,Green,Stations,Chiswick Road,/stops/place-chswk,"Commonwealth Ave and Chiswick Rd, Boston, MA",42.340805,-71.150711
+81,subway,Green,Stations,Cleveland Circle,/stops/place-clmnl,"Beacon St and Chestnut Hill Ave, Brighton, MA",42.336142,-71.149326
+82,subway,Green,Stations,Coolidge Corner,/stops/place-cool,"Beacon St and Harvard St, Brookline, MA",42.342116,-71.121263
+83,subway,Green,Stations,Copley,/stops/place-coecl,"Boylston St and Dartmouth St, Boston, MA",42.349974,-71.077447
+84,subway,Green,Stations,Dean Road,/stops/place-denrd,"Beacon St and Dean Rd, Brookline, MA",42.337807,-71.141853
+85,subway,Green,Stations,East Somerville,/stops/place-esomr,"134 Washington St, Somerville, MA 02143",42.379467,-71.086625
+86,subway,Green,Stations,Eliot,/stops/place-eliot,"248 Lincoln St, Newton, MA 02461",42.319045,-71.216684
+87,subway,Green,Stations,Englewood Avenue,/stops/place-engav,"Beacon St and Englewood Ave, Brookline, MA",42.336971,-71.14566
+88,subway,Green,Stations,Fairbanks Street,/stops/place-fbkst,"Beacon St and Fairbanks Ave, Brookline, MA",42.339725,-71.131073
+89,subway,Green,Stations,Fenway,/stops/place-fenwy,"411 Park Dr, Boston, MA 02215",42.345403,-71.104213
+90,subway,Green,Stations,Fenwood Road,/stops/place-fenwd,"Huntington Ave and Fenwood Rd, Boston, MA",42.333706,-71.105728
+91,subway,Green,Stations,Gilman Square,/stops/place-gilmn,"161 School St, Somerville, MA 02143",42.387928,-71.096766
+92,subway,Green,Stations,Government Center,/stops/place-gover,"Cambridge St and Court St, Boston, MA",42.359705,-71.059215
+93,subway,Green,Stations,Griggs Street,/stops/place-grigg,"Commonwealth Ave and Griggs St, Boston, MA",42.348545,-71.134949
+94,subway,Green,Stations,Harvard Avenue,/stops/place-harvd,"Commonwealth Ave and Harvard Ave, Boston, MA",42.350243,-71.131355
+95,subway,Green,Stations,Hawes Street,/stops/place-hwsst,"Beacon St and Hawes St, Brookline, MA",42.344906,-71.111145
+96,subway,Green,Stations,Haymarket,/stops/place-haecl,"136 Blackstone St, Boston, MA 02109",42.363021,-71.05829
+97,subway,Green,Stations,Heath Street,/stops/place-hsmnl,"Heath St and South Huntington Ave, Boston, MA",42.328316,-71.110252
+98,subway,Green,Stations,Hynes Convention Center,/stops/place-hymnl,"100 Massachusetts Ave, Boston, MA",42.347888,-71.087903
+99,subway,Green,Stations,Kenmore,/stops/place-kencl,"Commonwealth Ave and Kenmore St, Boston, MA 02215",42.348949,-71.095169
+100,subway,Green,Stations,Kent Street,/stops/place-kntst,"Beacon St and Powell St, Brookline, MA",42.344074,-71.114197
+101,subway,Green,Stations,Lechmere,/stops/place-lech,"3 North First St, Cambridge, MA 02141",42.371572,-71.076584
+102,subway,Green,Stations,Longwood,/stops/place-longw,"30 Chapel St, Brookline, MA 02446",42.341702,-71.109956
+103,subway,Green,Stations,Longwood Medical Area,/stops/place-lngmd,"Huntington Ave and Longwood Ave, Boston, MA 02115",42.33596,-71.100052
+104,subway,Green,Stations,Magoun Square,/stops/place-mgngl,"270 Lowell St, Somerville, MA 02145",42.393682,-71.106388
+105,subway,Green,Stations,Medford/Tufts,/stops/place-mdftf,"460 Boston Ave, Medford, MA 02155",42.407975,-71.117044
+106,subway,Green,Stations,Mission Park,/stops/place-mispk,"Huntington Ave and Mission Park Dr, Boston, MA 02115",42.333195,-71.109756
+107,subway,Green,Stations,Museum of Fine Arts,/stops/place-mfa,"Huntington Ave and Ruggles St, Boston, MA",42.337711,-71.095512
+108,subway,Green,Stations,Newton Centre,/stops/place-newto,"72 Union St, Newton, MA 02459",42.329443,-71.192414
+109,subway,Green,Stations,Newton Highlands,/stops/place-newtn,"60 Station Ave, Newton, MA 02461",42.322381,-71.205509
+110,subway,Green,Stations,North Station,/stops/place-north,"135 Causeway St, Boston, MA 02114",42.365577,-71.06129
+111,subway,Green,Stations,Northeastern University,/stops/place-nuniv,"Huntington Ave and Opera Pl, Boston, MA 02115",42.340401,-71.088806
+112,subway,Green,Stations,Packard's Corner,/stops/place-brico,"Commonwealth Ave and Brighton Ave, Boston, MA 02215",42.351967,-71.125031
+113,subway,Green,Stations,Park Street,/stops/place-pktrm,"Tremont St and Winter St, Boston, MA 02108",42.356395,-71.062424
+114,subway,Green,Stations,Prudential,/stops/place-prmnl,"Huntington Ave and Belvidere St, Boston, MA 02199",42.34557,-71.081696
+115,subway,Green,Stations,Reservoir,/stops/place-rsmnl,"401 Chestnut Hill Ave, Brookline, MA 02445",42.335088,-71.148758
+116,subway,Green,Stations,Riverside,/stops/place-river,"367 Grove St, Newton, MA 02466",42.337352,-71.252685
+117,subway,Green,Stations,Riverway,/stops/place-rvrwy,"South Huntington Ave and Huntington Ave, Boston, MA",42.331684,-71.111931
+118,subway,Green,Stations,Saint Mary's Street,/stops/place-smary,"Beacon St and Saint Mary's St, Boston, MA",42.345974,-71.107353
+119,subway,Green,Stations,Saint Paul Street,/stops/place-stpul,"Beacon St and Saint Paul St, Brookline, MA 02446",42.343327,-71.116997
+120,subway,Green,Stations,Science Park/West End,/stops/place-spmnl,"Leverett Circle and Nashua St, Boston, MA 02114",42.366664,-71.067666
+121,subway,Green,Stations,South Street,/stops/place-sougr,"South Street, Boston",42.3396,-71.157661
+122,subway,Green,Stations,Summit Avenue,/stops/place-sumav,"Beacon St and Summit Ave, Brookline, MA",42.34111,-71.12561
+123,subway,Green,Stations,Sutherland Road,/stops/place-sthld,"Commonwealth Ave and Sutherland Rd, Boston, MA",42.341614,-71.146202
+124,subway,Green,Stations,Symphony,/stops/place-symcl,"Massachusetts Ave and Huntington Ave, Boston, MA",42.342687,-71.085056
+125,subway,Green,Stations,Tappan Street,/stops/place-tapst,"Beacon St and Tappan St, Brookline, MA",42.338459,-71.138702
+126,subway,Green,Stations,Union Square,/stops/place-unsqu,"50 Prospect St, Somerville, MA 02143",42.377359,-71.094761
+127,subway,Green,Stations,Waban,/stops/place-waban,"Beacon St and Waban Sq, Newton, MA 02468",42.325845,-71.230609
+128,subway,Green,Stations,Warren Street,/stops/place-wrnst,"Commonwealth Ave and Warren St, Boston, MA",42.348343,-71.140457
+129,subway,Green,Stations,Washington Square,/stops/place-bcnwa,"Beacon St and Washington St, Brookline, MA",42.339394,-71.13533
+130,subway,Green,Stations,Washington Street,/stops/place-wascm,"Commonwealth Ave and Washington St, Boston, MA",42.343864,-71.142853
+131,subway,Green,Stations,Woodland,/stops/place-woodl,"1940 Washington St, Newton, MA 02466",42.332902,-71.243362
+132,subway,Red,Stations,Alewife,/stops/place-alfcl,"Alewife Brook Pkwy and Cambridge Park Dr, Cambridge, MA 02140",42.39583,-71.141287
+133,subway,Red,Stations,Andrew,/stops/place-andrw,"Dorchester Ave and Southhampton St, South Boston, MA 02127",42.330154,-71.057655
+134,subway,Red,Stations,Ashmont,/stops/place-asmnl,"Dorchester Ave and Ashmont St, Boston, MA 02124",42.28452,-71.063777
+135,subway,Red,Stations,Braintree,/stops/place-brntn,"197 Ivory St, Braintree, MA 02184",42.207854,-71.001138
+136,subway,Red,Stations,Broadway,/stops/place-brdwy,"Dorchester Ave and Broadway, Boston, MA",42.342622,-71.056967
+137,subway,Red,Stations,Central,/stops/place-cntsq,"Massachusetts Ave and Prospect St, Cambridge, MA 02139",42.365486,-71.103802
+138,subway,Red,Stations,Charles/MGH,/stops/place-chmnl,"Cambridge St and Charles St, Boston, MA",42.361166,-71.070628
+139,subway,Red,Stations,Davis,/stops/place-davis,"College Ave and Elm St, Somerville, MA",42.39674,-71.121815
+140,subway,Red,Stations,Downtown Crossing,/stops/place-dwnxg,"Washington St and Summer St, Boston, MA",42.355518,-71.060225
+141,subway,Red,Stations,Fields Corner,/stops/place-fldcr,"50 Freeman St, Dorchester, MA 02122",42.300093,-71.061667
+142,subway,Red,Stations,Harvard,/stops/place-harsq,"1400 Massachusetts Ave, Cambridge, MA",42.373362,-71.118956
+143,subway,Red,Stations,JFK/UMass,/stops/place-jfk,"599 Old Colony Ave, Boston, MA 02127-3805",42.320685,-71.052391
+144,subway,Red,Stations,Kendall/MIT,/stops/place-knncl,"300 Main St, Cambridge, MA 02142",42.362491,-71.086176
+145,subway,Red,Stations,North Quincy,/stops/place-nqncy,"Hancock St and Hunt St, Quincy, MA 02171",42.275275,-71.029583
+146,subway,Red,Stations,Park Street,/stops/place-pktrm,"Tremont St and Winter St, Boston, MA 02108",42.356395,-71.062424
+147,subway,Red,Stations,Porter,/stops/place-portr,"1899 Massachusetts Ave, Cambridge, MA 02140",42.3884,-71.119149
+148,subway,Red,Stations,Quincy Adams,/stops/place-qamnl,"Burgin Pkwy and Centre St, Quincy, MA 02169",42.233391,-71.007153
+149,subway,Red,Stations,Quincy Center,/stops/place-qnctr,"175 Thomas E Burgin Pkwy, Quincy, MA 02169",42.251809,-71.005409
+150,subway,Red,Stations,Savin Hill,/stops/place-shmnl,"125 Savin Hill Ave, Dorchester, MA 02124",42.31129,-71.053331
+151,subway,Red,Stations,Shawmut,/stops/place-smmnl,"Dayton St and Clementine Park, Dorchester, MA 02124",42.293126,-71.065738
+152,subway,Red,Stations,South Station,/stops/place-sstat,"700 Atlantic Ave, Boston, MA 02110",42.352271,-71.055242
+153,subway,Red,Stations,Wollaston,/stops/place-wlsta,"90 Woodbine St, Quincy, MA 02171",42.266514,-71.020337
+154,subway,Red,Mattapan Trolley,Ashmont,/stops/place-asmnl,"Dorchester Ave and Ashmont St, Boston, MA 02124",42.28452,-71.063777
+155,subway,Red,Mattapan Trolley,Butler,/stops/place-butlr,"Butler St and Branchfield St, Dorchester, MA 02124",42.272429,-71.062519
+156,subway,Red,Mattapan Trolley,Capen Street,/stops/place-capst,"50 Capen St, Milton, MA 02186",42.267563,-71.087338
+157,subway,Red,Mattapan Trolley,Cedar Grove,/stops/place-cedgr,"Fellsway St and Milton St, Dorchester, MA 02124",42.279629,-71.060394
+158,subway,Red,Mattapan Trolley,Central Avenue,/stops/place-cenav,"23 Central Ave, Milton, MA 02186",42.270027,-71.073444
+159,subway,Red,Mattapan Trolley,Mattapan,/stops/place-matt,"500 River St, Boston, MA 02126",42.26762,-71.092486
+160,subway,Red,Mattapan Trolley,Milton,/stops/place-miltt,"1 Adams St, Milton, MA 02186",42.270349,-71.067266
+161,subway,Red,Mattapan Trolley,Valley Road,/stops/place-valrd,"291 Valley Rd, Milton, MA 02186",42.268347,-71.081343
+162,subway,Orange,Stations,Assembly,/stops/place-astao,"499 Foley St, Somerville, MA 02145",42.392811,-71.077257
+163,subway,Orange,Stations,Back Bay,/stops/place-bbsta,"145 Dartmouth St Boston, MA 02116",42.34735,-71.075727
+164,subway,Orange,Stations,Chinatown,/stops/place-chncl,"Washington St and Boylston St, Boston, MA",42.352547,-71.062752
+165,subway,Orange,Stations,Community College,/stops/place-ccmnl,"Austin St and Rutherford Ave, Charlestown, MA",42.373622,-71.069533
+166,subway,Orange,Stations,Downtown Crossing,/stops/place-dwnxg,"Washington St and Summer St, Boston, MA",42.355518,-71.060225
+167,subway,Orange,Stations,Forest Hills,/stops/place-forhl,"Washington St and Hyde Park Ave, Jamaica Plain, MA 02130",42.300713,-71.113943
+168,subway,Orange,Stations,Green Street,/stops/place-grnst,"150 Green St, Jamaica Plain, MA",42.310525,-71.107414
+169,subway,Orange,Stations,Haymarket,/stops/place-haecl,"136 Blackstone St, Boston, MA 02109",42.363021,-71.05829
+170,subway,Orange,Stations,Jackson Square,/stops/place-jaksn,"1500 Columbus Ave, Jamaica Plain, MA",42.323132,-71.099592
+171,subway,Orange,Stations,Malden Center,/stops/place-mlmnl,"Commercial St and Pleasant St, Malden, MA 02148",42.426632,-71.07411
+172,subway,Orange,Stations,Massachusetts Avenue,/stops/place-masta,"393 Massachusetts Ave, Boston, MA 02118",42.341512,-71.083423
+173,subway,Orange,Stations,North Station,/stops/place-north,"135 Causeway St, Boston, MA 02114",42.365577,-71.06129
+174,subway,Orange,Stations,Oak Grove,/stops/place-ogmnl,"Washington St and Winter St, Malden, MA 02148",42.43668,-71.071097
+175,subway,Orange,Stations,Roxbury Crossing,/stops/place-rcmnl,"1400 Tremont St, Roxbury, MA",42.331397,-71.095451
+176,subway,Orange,Stations,Ruggles,/stops/place-rugg,"1150 Tremont St, Roxbury, MA 02120",42.336377,-71.088961
+177,subway,Orange,Stations,State,/stops/place-state,"200 Washington St, Boston, MA",42.358978,-71.057598
+178,subway,Orange,Stations,Stony Brook,/stops/place-sbmnl,"100 Boylston St, Jamaica Plain, MA",42.317062,-71.104248
+179,subway,Orange,Stations,Sullivan Square,/stops/place-sull,"Maffa Way and Cambridge St, Charlestown, MA 02129",42.383975,-71.076994
+180,subway,Orange,Stations,Tufts Medical Center,/stops/place-tumnl,"750 Washington St, Boston, MA",42.349662,-71.063917
+181,subway,Orange,Stations,Wellington,/stops/place-welln,"Revere Beach Pkwy and Rivers Edge Dr, Medford, MA 02155",42.40237,-71.077082
+182,subway,Blue,Stations,Airport,/stops/place-aport,"Transportation Way and Service Rd, Boston, MA 02128",42.374262,-71.030395
+183,subway,Blue,Stations,Aquarium,/stops/place-aqucl,"Atlantic Ave and State St, Boston, MA 02120",42.359784,-71.051652
+184,subway,Blue,Stations,Beachmont,/stops/place-bmmnl,"630 Winthrop Ave, Revere, MA 02151",42.397542,-70.992319
+185,subway,Blue,Stations,Bowdoin,/stops/place-bomnl,"Cambridge St and New Chardon St, Boston, MA 02114",42.361365,-71.062037
+186,subway,Blue,Stations,Government Center,/stops/place-gover,"Cambridge St and Court St, Boston, MA",42.359705,-71.059215
+187,subway,Blue,Stations,Maverick,/stops/place-mvbcl,"Sumner St and Maverick Sq, East Boston, MA",42.369119,-71.03953
+188,subway,Blue,Stations,Orient Heights,/stops/place-orhte,"1000 Bennington St, East Boston, MA 02128",42.386867,-71.004736
+189,subway,Blue,Stations,Revere Beach,/stops/place-rbmnl,"220 Shirley Ave, Revere, MA",42.407843,-70.992533
+190,subway,Blue,Stations,State,/stops/place-state,"200 Washington St, Boston, MA",42.358978,-71.057598
+191,subway,Blue,Stations,Suffolk Downs,/stops/place-sdmnl,"1230 Bennington St, East Boston, MA 02128",42.390501,-70.997123
+192,subway,Blue,Stations,Wonderland,/stops/place-wondl,"1300 North Shore Rd, Revere, MA 02151",42.41342,-70.991648
+193,subway,Blue,Stations,Wood Island,/stops/place-wimnl,"450 Bennington St, East Boston, MA",42.37964,-71.022865
+194,subway,Green,Stations,Allston Street,/stops/place-alsgr,"Allston St and Commonwealth Ave, Boston, MA 02134",42.348701,-71.137955
+195,subway,Green,Stations,Amory Street,/stops/place-amory,"Commonwealth Ave and Amory St, Boston, MA 02215",42.350992,-71.114748
+196,subway,Green,Stations,Arlington,/stops/place-armnl,"Arlington St and Boylston St, Boston, MA 02116",42.351902,-71.070893
+197,subway,Green,Stations,Babcock Street,/stops/place-babck,"Commonwealth Ave and Babcock St, Boston, MA 02215",42.351616,-71.119924
+198,subway,Green,Stations,Back of the Hill,/stops/place-bckhl,"100 South Huntington Ave, Boston, MA 02130",42.330139,-71.111313
+199,subway,Green,Stations,Ball Square,/stops/place-balsq,"646 Boston Ave, Somerville, MA 02144",42.399889,-71.111003
+200,subway,Green,Stations,Beaconsfield,/stops/place-bcnfd,"124 Beaconsfield Rd, Brookline, MA 02445",42.335765,-71.140455
+201,subway,Green,Stations,Blandford Street,/stops/place-bland,"Commonwealth Ave and Blandford Mall, Boston, MA 02215",42.349293,-71.100258
+202,subway,Green,Stations,Boston College,/stops/place-lake,"Commonwealth Ave and Lake St, Boston, MA 02135",42.340081,-71.166769
+203,subway,Green,Stations,Boston University Central,/stops/place-bucen,"Commonwealth Ave and Marsh Chapel, Boston, MA 02215",42.350082,-71.106865
+204,subway,Green,Stations,Boston University East,/stops/place-buest,"Commonwealth Ave and Granby St, Boston, MA 02215",42.349735,-71.103889
+205,subway,Green,Stations,Boylston,/stops/place-boyls,"Boylston St and Tremont St, Boston, MA",42.35302,-71.06459
+206,subway,Green,Stations,Brandon Hall,/stops/place-bndhl,"1481 Beacon St, Brookline, MA",42.340023,-71.129082
+207,subway,Green,Stations,Brigham Circle,/stops/place-brmnl,"Huntington Ave and Francis St, Boston, MA",42.334229,-71.104609
+208,subway,Green,Stations,Brookline Hills,/stops/place-brkhl,"Tappan St and Cypress St, Brookline, MA 02445",42.331316,-71.126683
+209,subway,Green,Stations,Brookline Village,/stops/place-bvmnl,"31 Station St, Brookline, MA 02445",42.332608,-71.116857
+210,subway,Green,Stations,Chestnut Hill,/stops/place-chhil,"Hammond St and Chestnut Hill Rd, Newton, MA 02467",42.326753,-71.164699
+211,subway,Green,Stations,Chestnut Hill Avenue,/stops/place-chill,"Commonwealth Ave and Chestnut Hill Ave, Boston, MA",42.338169,-71.15316
+212,subway,Green,Stations,Chiswick Road,/stops/place-chswk,"Commonwealth Ave and Chiswick Rd, Boston, MA",42.340805,-71.150711
+213,subway,Green,Stations,Cleveland Circle,/stops/place-clmnl,"Beacon St and Chestnut Hill Ave, Brighton, MA",42.336142,-71.149326
+214,subway,Green,Stations,Coolidge Corner,/stops/place-cool,"Beacon St and Harvard St, Brookline, MA",42.342116,-71.121263
+215,subway,Green,Stations,Copley,/stops/place-coecl,"Boylston St and Dartmouth St, Boston, MA",42.349974,-71.077447
+216,subway,Green,Stations,Dean Road,/stops/place-denrd,"Beacon St and Dean Rd, Brookline, MA",42.337807,-71.141853
+217,subway,Green,Stations,East Somerville,/stops/place-esomr,"134 Washington St, Somerville, MA 02143",42.379467,-71.086625
+218,subway,Green,Stations,Eliot,/stops/place-eliot,"248 Lincoln St, Newton, MA 02461",42.319045,-71.216684
+219,subway,Green,Stations,Englewood Avenue,/stops/place-engav,"Beacon St and Englewood Ave, Brookline, MA",42.336971,-71.14566
+220,subway,Green,Stations,Fairbanks Street,/stops/place-fbkst,"Beacon St and Fairbanks Ave, Brookline, MA",42.339725,-71.131073
+221,subway,Green,Stations,Fenway,/stops/place-fenwy,"411 Park Dr, Boston, MA 02215",42.345403,-71.104213
+222,subway,Green,Stations,Fenwood Road,/stops/place-fenwd,"Huntington Ave and Fenwood Rd, Boston, MA",42.333706,-71.105728
+223,subway,Green,Stations,Gilman Square,/stops/place-gilmn,"161 School St, Somerville, MA 02143",42.387928,-71.096766
+224,subway,Green,Stations,Government Center,/stops/place-gover,"Cambridge St and Court St, Boston, MA",42.359705,-71.059215
+225,subway,Green,Stations,Griggs Street,/stops/place-grigg,"Commonwealth Ave and Griggs St, Boston, MA",42.348545,-71.134949
+226,subway,Green,Stations,Harvard Avenue,/stops/place-harvd,"Commonwealth Ave and Harvard Ave, Boston, MA",42.350243,-71.131355
+227,subway,Green,Stations,Hawes Street,/stops/place-hwsst,"Beacon St and Hawes St, Brookline, MA",42.344906,-71.111145
+228,subway,Green,Stations,Haymarket,/stops/place-haecl,"136 Blackstone St, Boston, MA 02109",42.363021,-71.05829
+229,subway,Green,Stations,Heath Street,/stops/place-hsmnl,"Heath St and South Huntington Ave, Boston, MA",42.328316,-71.110252
+230,subway,Green,Stations,Hynes Convention Center,/stops/place-hymnl,"100 Massachusetts Ave, Boston, MA",42.347888,-71.087903
+231,subway,Green,Stations,Kenmore,/stops/place-kencl,"Commonwealth Ave and Kenmore St, Boston, MA 02215",42.348949,-71.095169
+232,subway,Green,Stations,Kent Street,/stops/place-kntst,"Beacon St and Powell St, Brookline, MA",42.344074,-71.114197
+233,subway,Green,Stations,Lechmere,/stops/place-lech,"3 North First St, Cambridge, MA 02141",42.371572,-71.076584
+234,subway,Green,Stations,Longwood,/stops/place-longw,"30 Chapel St, Brookline, MA 02446",42.341702,-71.109956
+235,subway,Green,Stations,Longwood Medical Area,/stops/place-lngmd,"Huntington Ave and Longwood Ave, Boston, MA 02115",42.33596,-71.100052
+236,subway,Green,Stations,Magoun Square,/stops/place-mgngl,"270 Lowell St, Somerville, MA 02145",42.393682,-71.106388
+237,subway,Green,Stations,Medford/Tufts,/stops/place-mdftf,"460 Boston Ave, Medford, MA 02155",42.407975,-71.117044
+238,subway,Green,Stations,Mission Park,/stops/place-mispk,"Huntington Ave and Mission Park Dr, Boston, MA 02115",42.333195,-71.109756
+239,subway,Green,Stations,Museum of Fine Arts,/stops/place-mfa,"Huntington Ave and Ruggles St, Boston, MA",42.337711,-71.095512
+240,subway,Green,Stations,Newton Centre,/stops/place-newto,"72 Union St, Newton, MA 02459",42.329443,-71.192414
+241,subway,Green,Stations,Newton Highlands,/stops/place-newtn,"60 Station Ave, Newton, MA 02461",42.322381,-71.205509
+242,subway,Green,Stations,North Station,/stops/place-north,"135 Causeway St, Boston, MA 02114",42.365577,-71.06129
+243,subway,Green,Stations,Northeastern University,/stops/place-nuniv,"Huntington Ave and Opera Pl, Boston, MA 02115",42.340401,-71.088806
+244,subway,Green,Stations,Packard's Corner,/stops/place-brico,"Commonwealth Ave and Brighton Ave, Boston, MA 02215",42.351967,-71.125031
+245,subway,Green,Stations,Park Street,/stops/place-pktrm,"Tremont St and Winter St, Boston, MA 02108",42.356395,-71.062424
+246,subway,Green,Stations,Prudential,/stops/place-prmnl,"Huntington Ave and Belvidere St, Boston, MA 02199",42.34557,-71.081696
+247,subway,Green,Stations,Reservoir,/stops/place-rsmnl,"401 Chestnut Hill Ave, Brookline, MA 02445",42.335088,-71.148758
+248,subway,Green,Stations,Riverside,/stops/place-river,"367 Grove St, Newton, MA 02466",42.337352,-71.252685
+249,subway,Green,Stations,Riverway,/stops/place-rvrwy,"South Huntington Ave and Huntington Ave, Boston, MA",42.331684,-71.111931
+250,subway,Green,Stations,Saint Mary's Street,/stops/place-smary,"Beacon St and Saint Mary's St, Boston, MA",42.345974,-71.107353
+251,subway,Green,Stations,Saint Paul Street,/stops/place-stpul,"Beacon St and Saint Paul St, Brookline, MA 02446",42.343327,-71.116997
+252,subway,Green,Stations,Science Park/West End,/stops/place-spmnl,"Leverett Circle and Nashua St, Boston, MA 02114",42.366664,-71.067666
+253,subway,Green,Stations,South Street,/stops/place-sougr,"South Street, Boston",42.3396,-71.157661
+254,subway,Green,Stations,Summit Avenue,/stops/place-sumav,"Beacon St and Summit Ave, Brookline, MA",42.34111,-71.12561
+255,subway,Green,Stations,Sutherland Road,/stops/place-sthld,"Commonwealth Ave and Sutherland Rd, Boston, MA",42.341614,-71.146202
+256,subway,Green,Stations,Symphony,/stops/place-symcl,"Massachusetts Ave and Huntington Ave, Boston, MA",42.342687,-71.085056
+257,subway,Green,Stations,Tappan Street,/stops/place-tapst,"Beacon St and Tappan St, Brookline, MA",42.338459,-71.138702
+258,subway,Green,Stations,Union Square,/stops/place-unsqu,"50 Prospect St, Somerville, MA 02143",42.377359,-71.094761
+259,subway,Green,Stations,Waban,/stops/place-waban,"Beacon St and Waban Sq, Newton, MA 02468",42.325845,-71.230609
+260,subway,Green,Stations,Warren Street,/stops/place-wrnst,"Commonwealth Ave and Warren St, Boston, MA",42.348343,-71.140457
+261,subway,Green,Stations,Washington Square,/stops/place-bcnwa,"Beacon St and Washington St, Brookline, MA",42.339394,-71.13533
+262,subway,Green,Stations,Washington Street,/stops/place-wascm,"Commonwealth Ave and Washington St, Boston, MA",42.343864,-71.142853
+263,subway,Green,Stations,Woodland,/stops/place-woodl,"1940 Washington St, Newton, MA 02466",42.332902,-71.243362
