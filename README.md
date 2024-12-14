@@ -1,5 +1,5 @@
 # MBTA Stations Dataset
-*Finnley Autumn Rogers* | 2024-07-26
+*charlotte* | 2024-07-26
 
 While working with a dataset of Boston BlueBikes station location data I realized there is no easily available dataset of MBTA rapid transit station locations. The MBTA makes a lot of data available publicly at their [Open Data Portal](https://mbta-massdot.opendata.arcgis.com/), but the majority of that is designed for GIS systems, and it does not seem to offer a basic dataset of geocoded station locations. 
 
